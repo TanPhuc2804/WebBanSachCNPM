@@ -5,7 +5,7 @@
 ### Thành viên nhóm mình có:
   - Phan Tấn Phúc - [Github](https://github.com/TanPhuc2804)
   - Phạm Thanh Điền - [Github](https://github.com/ThanhDien2004)
-  - Lai Khánh Đạt - [Github](https://github.com/laidat123-png)
+  - Lai Phúc Đạt - [Github](https://github.com/laidat123-png)
   - Ung Gia Huy - [Github](https://github.com/hyuzz1)
   - Công Tiến - [Github](https://github.com/tien-123-start)
 
